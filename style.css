@@ -1,0 +1,18 @@
+body{
+    background-color: peachpuff;
+}
+hr{
+    /* background-color: white; */
+    border-style:none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 5%;
+    border-width:5px;
+    border-color: #b96c08;
+}
+img{
+    height: 200px;
+}
+h1,h3{
+    color: rgb(229, 151, 7);
+} 
